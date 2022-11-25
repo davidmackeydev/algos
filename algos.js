@@ -1,5 +1,5 @@
-//Codewars
-//EvenOrOdd Kata
+// Codewars
+// EvenOrOdd Kata
 
 // Solution:
 // function evenOrOdd(number) {
@@ -20,7 +20,12 @@
 
 // console.log(evenOrOdd(123456789))
 
-//Convert a Number to a String!
-function numberToString(num) {
-  return num.toString()
-}
+// Convert a Number to a String!
+// Simple Solution:
+// function numberToString(num) {
+//   return num.toString()
+// }
+
+// One-liner Solution:
+// const numberToString = num => `${num}`;
+
