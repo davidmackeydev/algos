@@ -12,10 +12,15 @@
 // }
 
 // Mathematical Solution:
-function evenOrOdd(number) {
-  if (number % 2 == 0) {
-    return "Even"
-  } return "Odd"
-}
+// function evenOrOdd(number) {
+//   if (number % 2 == 0) {
+//     return "Even"
+//   } return "Odd"
+// }
 
-console.log(evenOrOdd(123456789))
+// console.log(evenOrOdd(123456789))
+
+//Convert a Number to a String!
+function numberToString(num) {
+  return num.toString()
+}
