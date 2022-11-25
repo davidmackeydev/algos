@@ -20,6 +20,8 @@
 
 // console.log(evenOrOdd(123456789))
 
+// ---------------------------------
+
 // Convert a Number to a String!
 // Simple Solution:
 // function numberToString(num) {
@@ -29,3 +31,9 @@
 // One-liner Solution:
 // const numberToString = num => `${num}`;
 
+// ---------------------------------------
+
+// Sum of Positive Numbers in an Array
+function positiveSum(arr) {
+
+}
