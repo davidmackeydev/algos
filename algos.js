@@ -32,8 +32,14 @@
 // const numberToString = num => `${num}`;
 
 // ---------------------------------------
+// Make Negative
+function makeNegative(num) {
+  num *= -1
+}
+
+// -----------------------------------
 
 // Sum of Positive Numbers in an Array
-function positiveSum(arr) {
+// function positiveSum(arr) {
 
-}
+// }
