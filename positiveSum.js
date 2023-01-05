@@ -13,4 +13,4 @@ function positiveSum(arr) {
   return sum
 }
 
-console.log(positiveSum([1, 2, 3, 4, 5, 10, -7]));
+console.log(positiveSum([1, 2, 3, 4, 10, -7]));
