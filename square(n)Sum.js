@@ -1,8 +1,7 @@
 // square(n)Sum
 
 function squareSum(numbers) {
-  let square = numbers.reduce((acc, curVal) => {
-    return acc + curVal ** 2;
-  }, 0);
-  return square;
+  return numbers.reduce(function (sum, n) {
+    return (n * n) + sum;
+  }, 0)
 }
